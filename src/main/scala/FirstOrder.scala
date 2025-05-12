@@ -20,7 +20,7 @@ def forallElim[P[_], A](forall: ∀[P]): P[A] = forall.apply
 
 def eqRefl[A]: A =:= A = Refl()
 
-def eqSym[A, B](refl: =:=[A, B]): =:=[B, A] = refl match
+def eqSym[A, B](refl: A =:= B): B =:= A = refl match
   case Refl() => refl
 
 def eqTrans[A, B, C](reflA: A =:= B, reflB: B =:= C): A =:= C = (reflA, reflB) match

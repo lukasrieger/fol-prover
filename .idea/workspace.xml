@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fcf779a-c665-4f5e-b30a-c1fab3a8f4a0" name="Changes" comment="Typelevel prover init." />
+    <list default="true" id="8fcf779a-c665-4f5e-b30a-c1fab3a8f4a0" name="Changes" comment="﻿Merge branch 'master' of https://github.com/lukasrieger/fol-prover&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +50,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lukasrieger&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lukasrieger/fol-prover.git&quot;,
+    &quot;accountId&quot;: &quot;9c554a5c-9f80-4f57-841f-ee851dddcd0c&quot;
+  }
+}</component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
@@ -98,7 +112,7 @@
       <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/corretto-17.0.15" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="main" />
-      <module name="typelevel-prover" />
+      <module name="typelevel-prover.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -138,7 +152,7 @@
       <workItem from="1746919852260" duration="1323000" />
       <workItem from="1747008948214" duration="924000" />
       <workItem from="1747016848097" duration="11816000" />
-      <workItem from="1747078561974" duration="1796000" />
+      <workItem from="1747078561974" duration="2229000" />
     </task>
     <task id="LOCAL-00001" summary="Typelevel prover init.">
       <option name="closed" value="true" />
